@@ -1,0 +1,20 @@
+*{
+    position: 0;
+    margin: 0;
+}
+.main{
+    background-color: black;
+    color: aliceblue;
+    
+    height: 100vh;
+    text-align: center;
+}
+.forms{
+    padding: 30px;
+
+}
+button{
+    border: 2px solid white;
+    background-color: red;
+    color: black;
+}
